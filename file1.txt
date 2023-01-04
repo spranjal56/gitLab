@@ -4,7 +4,7 @@ git remote -v -> Tells the link of the origin
 
 git branch -> check branches
 
-git checkout -b "branch1" -> makes new Branch and push into it
+git checkout -b "branch1" -> makes new Branch and switch into it
 
 git checkout <branch_name> -> To change the branch
 
