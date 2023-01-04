@@ -1,1 +1,12 @@
-Hi . This is file 1.. Now i am modifying it
+Hi . This is file 1.. Now i am modifying it.
+
+git remote -v -> Tells the link of the origin
+
+git branch -> check branches
+
+git checkout -b "branch1" -> makes new Branch and push into it
+
+git checkout <branch_name> -> To change the branch
+
+git merge <branch_name> -> Used to merge the branches
+
